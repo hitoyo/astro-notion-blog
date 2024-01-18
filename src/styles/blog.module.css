@@ -15,6 +15,9 @@
 .post {
   margin: 0 auto 40px;
 }
+.post h2 {
+  font-weight: normal;
+}
 .post footer {
   margin-top: 0.5rem;
   padding: 0;
